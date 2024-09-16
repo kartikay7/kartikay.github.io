@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Hello there! Welcome to my portfolio.
 
-[Link to another page](./another-page.html).
+I'm a Computer Science undergrad pursuing from the University of Petroleum and Energy Studies, Dehradun (UPES).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Since I was a kid, I was fascinated by software and computers, in general. I would always tinker around with the most littlest of things in my 2007 Windows XP PC, trying to figure out how it actually works. Overtime, that fascination grew to coding and eventually, cybersecurity, which is what my portfolio is primarily about.
 
 # Header 1
 
